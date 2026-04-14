@@ -54,7 +54,7 @@ brights = [
 
 [colors.tab_bar]
 background = '#867462'
-[colors.tab_bar.active_tab]
+[colors.tab_bar.inactive_tab]
 bg_color = '#403A36'
 fg_color = "#ECE1D7"
 # For reference/customization, copied from Bamboo. Options apply to active_tab, inactive_tab, inactive_tab_hover, new_tab, new_tab_hover
@@ -63,7 +63,7 @@ fg_color = "#ECE1D7"
 # italic = false
 # strikethrough = false
 # underline = "None"
-[colors.tab_bar.inactive_tab]
+[colors.tab_bar.active_tab]
 bg_color = '#292522'
 fg_color = "#ECE1D7"
 [colors.tab_bar.new_tab]
