@@ -77,5 +77,5 @@ fg_color = "#ECE1D7"
 aliases = []
 author = "LumenLuminis"
 name = "Melangely-Faithful"
-origin_url = "https://github.com/LumenLuminis/Melangely-Faithful-Wezterm"
+origin_url = "https://github.com/LumenLuminis/wezterm-melangely-faithful"
 wezterm_version = "20240203-110809-5046fc22"
